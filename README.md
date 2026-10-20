@@ -1,4 +1,4 @@
-# 02 · AI Atribusi Pemicu Deforestasi (citra satelit simulasi)
+# AI Atribusi Pemicu Deforestasi (citra satelit simulasi)
 
 Terinspirasi repo *Attributing direct drivers to deforestation alerts with satellite imagery and AI*.
 Tiap alert = patch NDVI 32×32 sebelum/sesudah. Fitur bentuk (luas, kekompakan, kememanjangan, NDVI) → **Random Forest** memprediksi pemicu:
